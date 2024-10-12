@@ -54,3 +54,4 @@ class StockFetch:
         ])
         fig.update_layout(width=1000, height=800)
         return fig
+        
